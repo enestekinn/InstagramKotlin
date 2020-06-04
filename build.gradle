@@ -10,6 +10,10 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.6.1'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+            //firebase eklentisi 1
+        classpath 'com.google.gms:google-services:4.3.2'
+// servis surumu 4 bilmem neydi bununla degistirdim  duzeldi app duzeyinde  gradle da en alta servisleri eklemeyi unutma
+
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -20,6 +24,9 @@ allprojects {
     repositories {
         google()
         jcenter()
+
+        maven { url "https://jitpack.io" }
+        maven { url "https://maven.google.com" }
         
     }
 }

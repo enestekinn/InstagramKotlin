@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30858301416",
+    "firebase_url": "https://kotlininstagramclone-e4007.firebaseio.com",
+    "project_id": "kotlininstagramclone-e4007",
+    "storage_bucket": "kotlininstagramclone-e4007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30858301416:android:7c6256311466c162301e5d",
+        "android_client_info": {
+          "package_name": "com.enestekin.instagramkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30858301416-or85c92hr2c9hhr3er37660orhmgq9g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJV2lA2-Pz3btJfG7B_pFiP5z73vD2Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30858301416-or85c92hr2c9hhr3er37660orhmgq9g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
